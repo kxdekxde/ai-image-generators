@@ -1,5 +1,5 @@
 # Colab Code Generator for Civitai Checkpoint Models
-A simple tool to generate Colab notebooks code to use some [Civitai](https://civitai.com) Checkpoint models with Google Colab.
+A simple tool to generate Colab notebooks code to use some [Civitai](https://civitai.com) Checkpoint models with Google Colab. These models are for image generation (text-to-image).
 
 ## Models for the list:
 
