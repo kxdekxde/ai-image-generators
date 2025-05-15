@@ -16,7 +16,7 @@ A simple tool to generate Colab notebooks code to use some [Civitai](https://civ
   - [Amanatsu (Illustrious) v1.1](https://civitai.com/models/1325426/amanatsu-illustrious) by [Ikena](https://civitai.com/user/Ikena)
  
 
-## Requirements to use the scripts:
+## Requirements to use the script:
 
   - Double-click on _install_Python.bat_ to install Python 3.13
  
