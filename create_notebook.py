@@ -14,6 +14,7 @@ def get_user_choice():
     print("9) Sudachi XL (Illustrious) v1")
     print("10) Sudachi v1.0")
     print("11) Amanatsu (Illustrious) v1.1")
+    print("12) Plant Milk Walnut (ymk3.0.0)")
     choice = input("Input the number: ")
     return choice.strip()
 
@@ -29,7 +30,8 @@ def get_model_script_path(choice):
         "8": "Nova Furry XL v7B.py",
         "9": "Sudachi XL (Illustrious) v1.py",
         "10": "Sudachi v1.0.py",
-        "11": "Amanatsu (Illustrious) v1.1.py"
+        "11": "Amanatsu (Illustrious) v1.1.py",
+        "12": "Plant Milk Walnut (ymk3.0.0).py"
     }
     return model_scripts.get(choice)
 
@@ -92,8 +94,8 @@ def ask_for_lora(file_path):
 def main():
     # Get user choice
     choice = get_user_choice()
-    if choice not in ["1", "2", "3", "4", "5", "6", "7", "8", "9", "10", "11"]:
-        print("Invalid choice. Please select 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 or 11.")
+    if choice not in ["1", "2", "3", "4", "5", "6", "7", "8", "9", "10", "11", "12"]:
+        print("Invalid choice. Please select 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11 or 12.")
         return
     
     # Get corresponding script filename

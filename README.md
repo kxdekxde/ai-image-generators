@@ -14,6 +14,7 @@ A simple tool to generate Colab notebooks code to use some [Civitai](https://civ
   - [Sudachi XL (Illustrious) v1](https://civitai.com/models/1288125/sudachi-xl-illustrious) by [Ikena](https://civitai.com/user/Ikena)
   - [Sudachi v1.0](https://civitai.com/models/85909/sudachi) by [Ikena](https://civitai.com/user/Ikena)
   - [Amanatsu (Illustrious) v1.1](https://civitai.com/models/1325426/amanatsu-illustrious) by [Ikena](https://civitai.com/user/Ikena)
+  - [Plant Milk Model Suite](https://civitai.com/models/1162518/plant-milk-model-suite) by [Ocean3](https://civitai.com/user/Ocean3)
  
 
 ## Requirements to use the script:
